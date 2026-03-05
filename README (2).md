@@ -41,13 +41,4 @@ Main Components:
 5. Delete Task - Remove task from list
 6. Exit Summary - Show final statistics
 
-Project Structure:
-todo_list/
-│
-├── todo.py                # Main to-do list file
-├── README.md              # This file
-├── requirements.txt       # Python dependencies
-├── LICENSE                # MIT License
-└── .gitignore            # Git ignore file
-
 Stay organized! Track your tasks efficiently!
